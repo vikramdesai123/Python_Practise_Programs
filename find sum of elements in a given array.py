@@ -5,6 +5,6 @@ def arraySum(arr):
     for i in range(len(arr)):
         sum = sum + arr[i]
     return sum
-
+ 
 arr = [1,2,3,4,5]
 print(arraySum(arr))
